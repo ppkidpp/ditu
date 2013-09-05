@@ -1,1 +1,2 @@
-sldfdasfasdf
+This is a web gis project, using google map api to display map ,and poi data will be store in local database.
+In the first version, the function mainly includes map displaying, geo-searching(rectangle, circle, polygon), infobox, and popup.
